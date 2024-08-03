@@ -1,5 +1,5 @@
 # learnGit
 learning Git
 <br>
-Author -Leaning Git
+Author -Learning Git
 
